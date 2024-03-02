@@ -1,7 +1,7 @@
 export default function Menubar() {
     return (
         <>
-            <h1>Sagar Bahdke</h1>
+            <h1>Sagar Bhadke</h1>
         </>
     );
 }
