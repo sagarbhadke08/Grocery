@@ -1,13 +1,17 @@
 
-import './App.css';
-import "./components/Menubar.jsx";
+
+// import './App.css';
+import Menubar from './components/Menubar';
+
 function App() {
- 
+  
+
   return (
     <>
-      <Menubar/>
+    <Menubar/>
+      
     </>
-  );
+  )
 }
 
 export default App
