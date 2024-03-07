@@ -27,3 +27,18 @@ body {
   font-size: 2rem;
   font-weight: bold;
 }
+
+.add-item > div {
+  margin: 1rem 0;
+}
+
+.add-item label {
+    display: block;
+}
+
+.add-item input,
+.add-item select{
+    width: 100%;
+    padding: 10px;
+    
+}
