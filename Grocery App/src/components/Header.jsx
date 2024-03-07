@@ -1,5 +1,5 @@
 export default function Header(){
     return(
-        <div>This is Header </div>
+        <div className="header">Grocery List</div>
     )
 }
