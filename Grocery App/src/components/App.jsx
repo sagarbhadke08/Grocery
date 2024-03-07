@@ -9,10 +9,12 @@ function App() {
 
   return (
     <>
-      <Header />
-      <div className='container'>
-        <AddItem />
-        <ItemList />
+      <div>
+        <Header />
+        <div className='container'>
+          <AddItem />
+          <ItemList />
+        </div>
         <Footer />
       </div>
 
